@@ -59,12 +59,12 @@ $ echo $STATUS
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zzheyla&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=7F77DD&text_color=AFA9EC&bg_color=0D0D1A" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzheyla&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=AFA9EC&bg_color=0D0D1A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zzzheyla&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=7F77DD&text_color=AFA9EC&bg_color=0D0D1A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzzheyla&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=AFA9EC&bg_color=0D0D1A" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zzheyla&theme=tokyonight&hide_border=true&background=0D0D1A&ring=00F5FF&fire=7F77DD&currStreakLabel=00F5FF" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Zzzheyla&theme=tokyonight&hide_border=true&background=0D0D1A&ring=00F5FF&fire=7F77DD&currStreakLabel=00F5FF" width="60%" />
 </div>
 
 ---
@@ -73,16 +73,16 @@ $ echo $STATUS
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🧮 [Calculadora científica](https://github.com/Zzheyla/calculadora-cientifica) | Calculadora con operaciones avanzadas y UI interactiva | Python · Tkinter |
-| 📋 [Sistema de registro](https://github.com/Zzheyla/sistema-registro) | App para gestión y registro de estudiantes | Java · MySQL |
-| 🌐 [Portfolio web](https://github.com/Zzheyla/portfolio) | Sitio personal con proyectos y perfil profesional | HTML · CSS · JavaScript |
+| 🧮 [Calculadora científica](https://github.com/Zzzheyla/calculadora-cientifica) | Calculadora con operaciones avanzadas y UI interactiva | Python · Tkinter |
+| 📋 [Sistema de registro](https://github.com/Zzzheyla/sistema-registro) | App para gestión y registro de estudiantes | Java · MySQL |
+| 🌐 [Portfolio web](https://github.com/Zzzheyla/portfolio) | Sitio personal con proyectos y perfil profesional | HTML · CSS · JavaScript |
 
 ---
 
 ## 🐍 Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zzheyla/Zzheyla/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Zzzheyla/Zzzheyla/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ $ echo $STATUS
 
 [![Gmail](https://img.shields.io/badge/sheylapacha@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sheylapacha@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Zzheyla&color=00F5FF&style=for-the-badge&label=VISITAS)
+![Profile views](https://komarev.com/ghpvc/?username=Zzzheyla&color=00F5FF&style=for-the-badge&label=VISITAS)
 
 **> Perfil · Sheyla Pacha · 2026**
 
