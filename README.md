@@ -2,41 +2,31 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,50:7F77DD,100:00F5FF&height=200&section=header&text=Sheyla%20Pacha&fontSize=50&fontColor=00F5FF&fontAlignY=35&desc=Software%20Engineering%20Student&descColor=AFA9EC&descAlignY=55&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Iniciando+sistema...+🚀;Estudiante+de+Ingenieria+de+Software;Construyendo+el+futuro%2C+una+linea+a+la+vez.;Hello%2C+World!)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/3o7bu4vuCX7WPCW2LC/giphy.gif" width="160px" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Iniciando+sistema...+%F0%9F%9A%80;Estudiante+de+Ingenieria+de+Software;El+dise%C3%B1o+gu%C3%ADa%2C+el+c%C3%B3digo+construye.;Hello%2C+World!)](https://git.io/typing-svg)
 
 ### 👾 Sheyla Pacha
 #### Ingeniería de Software · 4to año
 #### Status: Aprendiendo · Construyendo 🚀
 
+<img src="https://raw.githubusercontent.com/Zzzheyla/Zzzheyla/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 ---
 
-## ⚡ Sobre mí
+<div align="center">─────────────── ⚡ SOBRE MÍ ───────────────</div>
 
-```bash
-$ whoami
-> Sheyla Pacha — Estudiante de Ingeniería de Software
+<br/>
 
-$ cat intereses.txt
-> 🚀 Desarrollo de software y sistemas
-> 🧠 Inteligencia Artificial y Machine Learning
-> 🌐 Desarrollo Web (Frontend & Backend)
-> 🔐 Seguridad informática
-> 💡 Resolución de problemas complejos
+<div align="center">
+  <img src="./assets/terminal.png" alt="Terminal Sheyla Pacha" width="700"/>
+</div>
 
-$ echo $CONTACTO
-> sheylapacha@gmail.com
-
-$ echo $STATUS
-> Cursando 4to año · Buscando experiencia · Open to collaborate
-```
+<br/>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+<div align="center">─────────────── 🛠️ TECNOLOGÍAS ───────────────</div>
 
 **Lenguajes**
 
@@ -46,8 +36,13 @@ $ echo $STATUS
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-**Bases de datos y Herramientas**
+**Herramientas creativas y de desarrollo**
 
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![After Effects](https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=E87D0D)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F5FF)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
@@ -56,7 +51,19 @@ $ echo $STATUS
 
 ---
 
-## 📊 Estadísticas
+<div align="center">─────────────── 📈 HABILIDADES ───────────────</div>
+
+![Python](https://progress-bar.xyz/75/?title=Python&color=7F77DD&width=420)
+![JavaScript](https://progress-bar.xyz/60/?title=JavaScript&color=00b4d8&width=420)
+![Java](https://progress-bar.xyz/65/?title=Java&color=7F77DD&width=420)
+![MySQL](https://progress-bar.xyz/55/?title=MySQL&color=00b4d8&width=420)
+![HTML%2FCSS](https://progress-bar.xyz/70/?title=HTML%2FCSS&color=7F77DD&width=420)
+![Figma](https://progress-bar.xyz/70/?title=Figma&color=00b4d8&width=420)
+![Photoshop](https://progress-bar.xyz/60/?title=Photoshop%20%2F%20Illustrator&color=7F77DD&width=420)
+
+---
+
+<div align="center">─────────────── 📊 ESTADÍSTICAS ───────────────</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zzzheyla&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=7F77DD&text_color=AFA9EC&bg_color=0D0D1A" width="48%" />
@@ -69,7 +76,18 @@ $ echo $STATUS
 
 ---
 
-## 🛰️ Proyectos
+<div align="center">─────────────── 🕹️ LÍNEA DE TIEMPO ───────────────</div>
+
+| Año | Hito |
+|-----|------|
+| 2025 | Cursando 4to año · Explorando UI/UX y motion design |
+| 2024 | Sistema de registro estudiantil (Java + MySQL) |
+| 2023 | Calculadora científica (Python + Tkinter) |
+| 2022 | Inicio en programación · Python · Java |
+
+---
+
+<div align="center">─────────────── 🛰️ PROYECTOS ───────────────</div>
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
@@ -79,11 +97,12 @@ $ echo $STATUS
 
 ---
 
-## 🐍 Contribuciones
+<div align="center">─────────────── 💼 DISPONIBLE PARA ───────────────</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zzzheyla/Zzzheyla/output/github-contribution-grid-snake-dark.svg" />
-</div>
+- 🎨 Prácticas en Diseño UI/UX o Frontend creativo
+- 🎬 Proyectos con motion design o ilustración digital
+- 💻 Desarrollo Web con enfoque visual
+- 🤝 Colaboración en proyectos open source
 
 ---
 
@@ -95,6 +114,6 @@ $ echo $STATUS
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zzzheyla&color=00F5FF&style=for-the-badge&label=VISITAS)
 
-**> Perfil · Sheyla Pacha · 2026**
+**> Sistema online · Sheyla Pacha · 2026**
 
 </div>
